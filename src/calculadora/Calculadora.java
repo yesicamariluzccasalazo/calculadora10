@@ -45,4 +45,7 @@ public class Calculadora {
     string sms(string sms){
         return "*" + sms + "*";
     }
+    float suma(float a, float d){
+    return 1+a+d;
+    }
 }
